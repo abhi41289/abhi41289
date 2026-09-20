@@ -147,16 +147,6 @@ My engineering philosophy blends **production-scale automation design** (Playwri
 > **Behavior-Driven Development test automation harness for enterprise Java ecosystems.**
 - Implements Cucumber BDD, Spring Boot test harnesses, and TestNG for seamless microservice integration and regression test suites.
 
----
-
-## 📈 GitHub Activity & Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhi41289&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Abhishek's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi41289&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
-
-</div>
 
 ---
 
